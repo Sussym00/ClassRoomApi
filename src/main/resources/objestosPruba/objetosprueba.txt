@@ -1,9 +1,9 @@
 /users
 {
-    "email":"Christian Ramos Arias",
-    "name":"christian@gmail.com",
-    "password":"admin123*",
-    "phoneNumber":"32259623432",
+    "email":"susanaperez@gmail.com",
+    "name":"susana987",
+    "password":"ssp123*",
+    "phoneNumber":"3005088255",
     "userType":"Docente"
 }
 
@@ -18,7 +18,7 @@
 
 /subjects
 {
-    "name":"Matemáticas",
+    "name":"Matematicass",
     "course":{
         "id":1
     }
@@ -28,7 +28,7 @@
 /student
 {
     "gradeLevel": 2,
-    "birthDate":"21/01/2000",
+    "birthDate":"20/12/2000",
     "address":"calle 13",
     "user":{
         "id":1
@@ -36,7 +36,7 @@
 }
 /inscriptions
 {
-    "inscriptionDate":"31/12/2024",
+    "inscriptionDate":"30/11/2024",
     "course":{
         "id": 1
     },
@@ -59,7 +59,7 @@
 
 /courses
 {
-    "name":"introducción",
+    "name":"introduccion",
     "teacher":{
         "id": 1
     }
@@ -67,7 +67,7 @@
 
 /Assistance
 {
-    "date":"23/02/2025",
+    "date":"22/01/2025",
     "status":"FALTO",
     "course":{
         "id": 1
