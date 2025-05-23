@@ -2,7 +2,7 @@
 {
     "email":"susanaperez@gmail.com",
     "name":"susana987",
-    "password":"ssp123*",
+    "password":"ssp123",
     "phoneNumber":"3005088255",
     "userType":"Docente"
 }
